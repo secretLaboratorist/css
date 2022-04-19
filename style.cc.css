@@ -182,9 +182,7 @@ button{
     margin-left:0;
     margin-right:0
 }
-.thumbnail img{
-border: black;
-}
+
 .row.expanded{
     max-width:none
 }
@@ -876,6 +874,7 @@ body,html{
 }
 
 .thumbnail{
+    border-color: bisque;
     line-height:0;
     max-width:100%;
     transition:box-shadow .2s ease-out;
