@@ -182,7 +182,9 @@ button{
     margin-left:0;
     margin-right:0
 }
-
+.thumbnail img{
+border: black;
+}
 .row.expanded{
     max-width:none
 }
